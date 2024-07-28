@@ -1,0 +1,42 @@
+﻿Bird abundance and its environmental controls in major ecosystems across the U.S.
+
+
+Anita Qian1,2, Xiaofeng Xu2
+1. Torrey Pines High School, San Diego, CA, USA, 92130
+2. Biology Department, San Diego State University, San Diego, California, USA, 92182
+
+
+Birds play a crucial role in maintaining the balance and health of ecosystems worldwide, with their significance extending from ecological functions to cultural symbolism. Ecologically, birds contribute to pest control by preying on insects, regulating populations, and mitigating agricultural damage. They also aid in seed dispersal and pollination, facilitating vegetation growth and plant reproduction. Furthermore, birds serve as environmental indicators, reflecting broader ecological shifts. Recently, the National Ecological Observation Network (NEON) has undertaken the task of monitoring bird populations across various U.S. ecosystems. The project aims to decipher bird abundance patterns during peak growing seasons, synthesizing data on variables such as bird counts, beetle populations, latitude, longitude, tree dimensions, and vegetation productivity during 2017-2022 sourced from NEON databases.
+
+
+The findings reveal that bird counts decrease from low to high latitudes, with both beetles and vegetation productivity positively influencing bird abundance, while tree breast height diameter shows weak correlation. Strong inter-annual variations in bird counts were observed nationwide. Both correlation analysis and structural equation modeling underscore vegetation's pivotal role in bird abundance. In essence, the developed bird count data system offers valuable insights into bird and ecosystem health, aiding communities in understanding and preserving these vital ecosystems.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Birds play a crucial role in maintaining the balance and health of ecosystems worldwide. Their importance spans various aspects of life, from ecological balance to cultural significance. Ecologically, birds contribute to pest control by preying on insects, thus helping to regulate populations and prevent agricultural damage. Additionally, they aid in seed dispersal and pollination, facilitating the growth of vegetation and the reproduction of plants. Birds also serve as indicators of environmental health, with changes in their populations often reflecting broader ecological shifts. Over the past decade, National Ecological Observation Network set up different species of birds from major ecosystems across the U.S. Large uncertainties remain due to the incomplete number of birds throughout the entire year, as well as during the year 2020. The objective of this project is to decipher the patterns of bird abundance in the peak growing season. Using a data synthesis approach, our team has compiled data points for a set of variables including the number of birds in each location, the number of beetles in each location, latitude, longitude, tree diameter and height, and vegetation productivity. The sources for data compilation include data obtained from NEON online databases.
+
+
+The major findings are (1) total bird counts decrease from low latitudes to high latitudes, and the variations decrease as well. (2) both beetle and vegetation productivity positively contribute to the total bird count, indicating the important roles of food availability. 3) tree breast height diameter is not correlated with bird counts, indicating the weak contribution of habitats. (4) strong inter-annual variations in bird counts in all sites across the US were observed. (5) Both correlation analysis and structural equation modeling approaches agree on the important roles of vegetation in total bird abundance. In conclusion, the developed bird count data system serves as meaningful support and tools for the community to understand the patterns of bird and ecosystem health.
